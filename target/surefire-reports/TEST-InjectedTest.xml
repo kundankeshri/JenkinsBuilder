@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="InjectedTest" time="33.273" tests="19" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
+    <property name="java.vm.version" value="25.121-b13"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\C15602\Desktop\pluginDDD\demo"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\C15602\Desktop\pluginDDD\demo"/>
+    <property name="java.runtime.version" value="1.8.0_121-b13"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\C15602\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Program Files\Maven\apache\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\Maven\apache\bin;C:\Program Files\Git\cmd;C:\rubyinstaller-2.4.1-2-x64\rubyinstaller-2.4.1-2-x64\bin;C:\Python27;C:\Python27\Scripts;C:\Users\C15602\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Ruby24-x64\bin;C:\Ruby22-x64\bin;C:\Users\C15602\AppData\Local\Microsoft\WindowsApps;C:\Users\C15602\AppData\Local\GitHubDesktop\bin;C:\Users\C15602\AppData\Local\atom\bin;C:\Users\C15602\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\C15602\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\C15602\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="maven.conf" value="C:\Program Files\Maven\apache\bin\../conf"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\Maven\apache\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\C15602"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="C15602"/>
+    <property name="java.class.path" value="C:\Program Files\Maven\apache\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_121"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\Maven\apache\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.442"/>
+  <testcase name="index.jelly" classname="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyCheck" time="0.003"/>
+  <testcase name="testCliSanity" classname="org.jvnet.hudson.test.PluginAutomaticTestBuilder$OtherTests" time="0.018"/>
+  <testcase name="testPluginActive" classname="org.jvnet.hudson.test.PluginAutomaticTestBuilder$OtherTests" time="0.008"/>
+  <testcase name="org.jvnet.hudson.test.JellyTestSuiteBuilder$JellyTestSuite" classname="org.jvnet.hudson.test.junit.FailedTest" time="0"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_sv.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.005"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_it.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_de.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.002"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_de.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_fr.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_es.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_it.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_es.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\Messages.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_tr.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_fr.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\HelloWorldBuilder\config_tr.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+  <testcase name="io\jenkins\plugins\sample\Messages_sv.properties" classname="org.jvnet.hudson.test.PropertiesTestSuite$PropertiesTest" time="0.001"/>
+</testsuite>

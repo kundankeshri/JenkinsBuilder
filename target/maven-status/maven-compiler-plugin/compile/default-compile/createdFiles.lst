@@ -1,0 +1,6 @@
+io\jenkins\plugins\sample\HelloWorldBuilder.class
+io\jenkins\plugins\sample\HelloWorldBuilder.stapler
+META-INF\annotations\org.kohsuke.accmod.Restricted
+io\jenkins\plugins\sample\HelloWorldBuilder$CustomViewsTabBarDescriptor.class
+io\jenkins\plugins\sample\Messages.class
+META-INF\annotations\hudson.Extension
